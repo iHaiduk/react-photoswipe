@@ -16,13 +16,13 @@
     "gallery"
   ],
   "peerDependencies": {
-    "react": "^0.14 || ^15.0.0",
-    "react-dom": "^0.14 || ^15.0.0"
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
   },
   "dependencies": {
-    "classnames": "^2.2.3",
-    "lodash.pick": "^4.2.1",
-    "photoswipe": "^4.1.0"
+    "classnames": "^2.2.5",
+    "lodash.pick": "^4.4.0",
+    "photoswipe": "^4.1.2"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.1",
@@ -33,7 +33,7 @@
     "babel-plugin-react-transform": "^1.1.1",
     "bootstrap": "^3.3.6",
     "camelcase": "^2.0.1",
-    "css-loader": "^0.23.0",
+    "css-loader": "^0.28.1",
     "cssnano": "^3.3.2",
     "del": "^2.1.0",
     "eslint": "^1.10.1",
@@ -52,7 +52,7 @@
     "gulp-postcss": "^6.1.0",
     "gulp-replace": "^0.5.4",
     "gulp-sass": "^2.2.0",
-    "history": "^2.0.1",
+    "history": "^2.1.0",
     "html-loader": "^0.4.0",
     "html-webpack-plugin": "^2.7.1",
     "http-proxy": "^1.12.0",
@@ -62,8 +62,8 @@
     "node-sass": "^3.4.2",
     "opn": "^4.0.0",
     "postcss-loader": "^0.8.0",
-    "react-router": "^2.0.0",
-    "react-transform-hmr": "^1.0.1",
+    "react-router": "^2.8.1",
+    "react-transform-hmr": "^1.0.4",
     "run-sequence": "^1.1.5",
     "sass-loader": "^3.1.2",
     "style-loader": "^0.13.0",
